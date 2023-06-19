@@ -14,11 +14,11 @@ pandas==1.5.0 <br>
 scikit_learn==1.2.2 <br>
 seaborn==0.12.2 <br>
 
-To produce results of LIGHTGBM baseline:
+To produce results of LIGHTGBM baseline: <br>
 python3 fraud_classification.py --classifier lgbmc
 
-To produce results of LIGHTGBM tuned:
+To produce results of LIGHTGBM tuned: <br>
 python3 fraud_classification.py --classifier lgbmc-tuned
 
-To produce results of Linear Regressor:
+To produce results of Linear Regressor: <br>
 python3 fraud_classification.py --classifier logistic
