@@ -8,7 +8,7 @@ Instructions:
 
 1) In order to run the code, please install the below libraries in your conda/python environment:
 
-hyperopt==0.2.7
+hyperopt==0.2.7 <br>
 lightgbm==3.3.5
 matplotlib==3.6.0
 numpy==1.24.2
